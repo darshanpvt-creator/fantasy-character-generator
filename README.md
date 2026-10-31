@@ -71,30 +71,47 @@ Make sure you have installed:
 
 ### Installation
 
+<<<<<<< HEAD
 **1. Clone the repository**
+=======
+Clone the repository:
+>>>>>>> f45cf18 (Prepare project for production deployment)
 
 ```bash
 git clone https://github.com/darshanpvt-creator/fantasy-character-generator.git
 ```
 
+<<<<<<< HEAD
 **2. Navigate to the project folder**
+=======
+Navigate to the project directory:
+>>>>>>> f45cf18 (Prepare project for production deployment)
 
 ```bash
 cd fantasy-character-generator
 ```
 
+<<<<<<< HEAD
 **3. Install dependencies**
+=======
+Install dependencies:
+>>>>>>> f45cf18 (Prepare project for production deployment)
 
 ```bash
 npm install
 ```
 
+<<<<<<< HEAD
 **4. Start the application**
+=======
+Start the development server:
+>>>>>>> f45cf18 (Prepare project for production deployment)
 
 ```bash
 npm run dev
 ```
 
+<<<<<<< HEAD
 Open the local development URL displayed in your terminal.
 
 ##  Project Highlights
@@ -113,19 +130,48 @@ Open the local development URL displayed in your terminal.
 - Support downloadable character cards.
 
 ##  Developer
+=======
+Open the local URL displayed in your terminal.
+
+## Project Highlights
+
+- Developed an interactive application through natural-language prompting.
+- Integrated AI-powered text and image generation capabilities.
+- Implemented character attributes and a personal character collection.
+- Designed an immersive fantasy-themed user interface.
+
+## Future Improvements
+
+- Add more character races and classes.
+- Introduce Intelligence and Charisma attributes.
+- Add character filtering and sorting.
+- Implement persistent cloud-based character storage.
+- Add downloadable character cards.
+
+## Developer
+>>>>>>> f45cf18 (Prepare project for production deployment)
 
 **DARSHAN G**
 
 Computer Science Engineering Student
 
+<<<<<<< HEAD
 [GitHub Profile](https://github.com/darshanpvt-creator)
 
 [Project Repository](https://github.com/darshanpvt-creator/fantasy-character-generator)
+=======
+GitHub: [@darshanpvt-creator](https://github.com/darshanpvt-creator)
+>>>>>>> f45cf18 (Prepare project for production deployment)
 
 ---
 
 <p align="center">
+<<<<<<< HEAD
   <strong>Built with Google AI Studio & Gemini</strong>
   <br/>
   <sub>Turning imagination into interactive experiences.</sub>
 </p>
+=======
+  Built with Google AI Studio and Gemini.
+</p>
+>>>>>>> f45cf18 (Prepare project for production deployment)
