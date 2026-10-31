@@ -40,14 +40,15 @@ The application combines generative AI with an immersive fantasy-themed interfac
 |  Character Deck | Save and manage generated characters. |
 |  Fantasy UI | Explore an ancient alchemist-inspired interface. |
 
-##  Application Preview
+## 📸 Application Preview
 
-<!-- Add your actual application screenshots below -->
+### 🏠 Homepage
 
-<p align="center">
-  <em>Application screenshots coming soon.</em>
-</p>
+![Homepage](screenshots/home.png)
 
+### 🧙 Generated Fantasy Character
+
+![Generated Character](screenshots/character-card.png)
 ##  Technology Stack
 
 | Technology | Purpose |
